@@ -98,10 +98,7 @@ p code {
   text-align: center;
 }
 .teaser-img {
-  width: 80%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  display: inline;
 }
 .teaser-gif {
   display: block;
