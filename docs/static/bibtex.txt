@@ -1,8 +1,5 @@
 @misc{Doherty2024LeafySpurgeDataset,
-      title={Leafy Spurge Dataset: Real-world weed classification within aerial drone imagery}, 
+      title={Leafy Spurge Dataset: Real-world Weed Classification Within Aerial Drone Imagery}, 
       author={Kyle Doherty, Max Gurinas, Erik Samsoe, Charles Casper, Beau Larkin, Philip Ramsey, Brandon Trabucco, Ruslan Salakhutdinov},
       year={2024},
-      eprint={2404.18928},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
 }
